@@ -2,7 +2,7 @@
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 [project]
-name = "pyexchange_xnlogical"
+name = "pyexchange"
 version = "0.0.1"
 authors = [
   { name="Example Author", email="ss1team1phantoms1ss@gmail.com" },
