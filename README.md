@@ -1,4 +1,4 @@
-# Locally Running Exchange API
+# pyexchange
 
 This python API uses selenium to get the latest currency data from google-finance, and even better: it's completely free unlike those bs web API's that charge 20$ a month for the exact same thing.
 
