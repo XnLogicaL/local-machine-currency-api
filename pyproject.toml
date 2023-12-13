@@ -1,3 +1,21 @@
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
+[project]
+name = "pyexchange_xnlogical"
+version = "0.0.1"
+authors = [
+  { name="Example Author", email="ss1team1phantoms1ss@gmail.com" },
+]
+description = "simple python currency exchange api"
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls]
+Homepage = "https://github.com/XnLogicaL/pyexchange"
+Issues = "https://github.com/XnLogical/pyexchange/issues"
